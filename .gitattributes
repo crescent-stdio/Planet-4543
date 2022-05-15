@@ -1,0 +1,4 @@
+Planet_4543_final filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+planet[[:space:]]4543.maxpat filter=lfs diff=lfs merge=lfs -text
+planet_send_A.ino filter=lfs diff=lfs merge=lfs -text
